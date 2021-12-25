@@ -1,11 +1,8 @@
 hike = 'UDDUUDDU'
 
 dict1 = {'D':-1, 'U':1}
-
 sealevel = 0
-
 downstep = 0
-
 valley_complete = 0
 
 for i in hike:
